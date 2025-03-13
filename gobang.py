@@ -1,11 +1,9 @@
 #**********************************IMPORTANT**********************************
 #                                                                            #
 # NOTE: IF USING IDLE SHELL, YOU MAY NEED TO EXPAND CONSOLE HORIZONTALLY     #
-#                   IN ORDER TO SEE THE GAME BOARD CORRECTLY                 #        #
+#                   IN ORDER TO SEE THE GAME BOARD CORRECTLY                 #
 #                                                                            #
 #**********************************IMPORTANT**********************************
-# Creator: D3764716 - Daniel Legg
-
 import random
 
 # Function to create game board
